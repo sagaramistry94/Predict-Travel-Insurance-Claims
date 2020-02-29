@@ -4,7 +4,7 @@ SafeTravel Inc. is one of the world's largest insurance companies specializing i
 
 Insurance companies take risks over customers. Risk management is a very important aspect of the insurance industry. Insurers consider every quantifiable factor to develop profiles of high and low insurance risks. Insurers collect vast amounts of information about policyholders and analyze the data.
 
-I am responsible for analyzing the available data and predict if the insurance claim is genuine or not. It will help the company to predict whether to sanction the claim or not.
+Analyze the available data and predict if the insurance claim is genuine or not. It will help the company to predict whether to sanction the claim or not.
 
 Dataset Description :
 
